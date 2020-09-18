@@ -1,0 +1,64 @@
+body {
+    margin: 25px;
+    font-family: "Architects Daughter";
+    font-size: 1.5rem;
+    letter-spacing: 3px;
+    color: white;
+    background-color: black;
+}
+h1 {
+    font-size: 1.5rem;
+    text-align: center;
+}
+a {
+    color: orangered;
+}
+#in1, #in2, #demo2, #demo4 {
+    font-family: "Architects Daughter";
+    font-size: 1.5rem;
+    letter-spacing: 3px;
+    width: 60%;
+    height: 50px;
+    text-align: center;
+    border: 2px orangered solid;
+    outline: 0.5px white solid;
+    background-color: black;
+    color: orangered;
+    margin: 15px;
+}
+#myBtn, #myBtn2 {
+    font-family: "Architects Daughter";
+    font-size: 1.5rem;
+    letter-spacing: 3px;
+    width: 25%;
+    height: 50px;
+    text-align: center;
+    border: 2px orangered solid;
+    outline: 0.5px white solid;
+    background-color: black;
+    color: orangered;
+    margin: 15px;
+}
+#demo, #demo3 {
+    font-family: "Architects Daughter";
+    font-size: 1.5rem;
+    letter-spacing: 3px;
+    width: 40%;
+    height: 50px;
+    text-align: center;
+    border: 2px orangered solid;
+    outline: 0.5px white solid;
+    background-color: black;
+    color: orangered;
+    margin: 15px;
+    padding-top: 10px;
+}
+iframe {
+    margin: 15px 33%;
+    border: 2px orangered solid;
+    outline: 0.5px white solid;
+}
+footer {
+    font-size: 1rem;
+    text-align: center;
+}
